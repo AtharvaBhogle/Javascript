@@ -43,3 +43,5 @@ function logginMessage(username="user") {// default argument for parameter
 }
 //console.log(logginMessage("atharva"))
 console.log(logginMessage())// this prints undefined logged in. to counter this we can use if statement or just give a default value
+
+
